@@ -34,6 +34,7 @@ function App() {
       })
       setBtnText("Enable Light Mode")
       showAlert("Dark mode has been enables","success");
+      document.title='My App-Dark';
     }
     else
     {
@@ -43,6 +44,7 @@ function App() {
       })
       setBtnText("Enable Dark Mode");
       showAlert("Light mode has been enables","success");
+      document.title='My App-Light';
     }
   }
 
