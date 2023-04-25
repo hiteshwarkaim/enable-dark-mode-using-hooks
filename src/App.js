@@ -60,7 +60,7 @@ function App() {
           officiis molestias nemo fugiat consequuntur nostrum soluta voluptatem nisi 
           fugit laborum, exercitationem natus ducimus, voluptate laboriosam officia 
           quibusdam maxime ullam quos temporibus consectetur et harum! Enim repellendus 
-          commodi mollitia laborum </p>
+          commodi mollitia laborum Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, tenetur officia neque veritatis ipsum aut odio similique debitis a illum veniam iste nobis fuga praesentium soluta accusamus voluptatum vel necessitatibus ut dolor animi. Omnis deserunt voluptas qui nulla odio praesentium non totam dolores ut animi adipisci rem eaque dignissimos, mollitia atque illo provident vero repellat! Reprehenderit vel ipsum officiis iure explicabo error eum tempore, iusto non, in cumque soluta ad a praesentium sunt quod ea iste. Dolore magni voluptates quaerat mollitia aliquid rem cupiditate similique labore placeat recusandae quam sint voluptate esse nihil, excepturi eius ipsa temporibus, tempora sed! Illum. </p>
     </div>
     <button onClick={toggleStyle}>{btnText}</button>
   </div>);
